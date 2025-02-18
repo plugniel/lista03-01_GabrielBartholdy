@@ -17,3 +17,5 @@ elif peso > 100:
     print("{} sua catogoria é PESADO".format(nome))
 else:
     print("Categoria INVALIDA")
+
+print("GAbriel Bartholdy")

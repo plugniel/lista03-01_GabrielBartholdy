@@ -7,3 +7,6 @@ if voto  > (maxi / 2):
 
 else:
     print("As votação tera 2° turno")
+
+
+print("GAbriel Bartholdy")

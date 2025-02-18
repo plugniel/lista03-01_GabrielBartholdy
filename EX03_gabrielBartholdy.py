@@ -7,3 +7,5 @@ if (salario * 0.08) >  (empre / parc):
     print("No valor de {} , em parcelas de {}x".format(empre,parc))
 else:
     print("Seu emprestimo não foi concedido")
+
+    print("GAbriel Bartholdy")

@@ -12,3 +12,6 @@ elif risco == "AL".lower() and valor >=1000:
 
 else:
     print("dado invalido")
+
+
+print("GAbriel Bartholdy")

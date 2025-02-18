@@ -6,3 +6,5 @@ if preco_custo <= 100:
 else:
     preco_com = (preco_custo * 0.35) + preco_custo
     print("O valor comercial do prouto: {}".format(preco_com))
+
+print("GAbriel Bartholdy")
