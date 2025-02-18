@@ -4,6 +4,6 @@ parc = int(input("Em quantas parcelas?"))
 
 if (salario * 0.08) >  (empre / parc):
     print("seu Emprestimo foi concedido")
-    print("no valor de {} , em parcelas de {}".format(empre,parc))
+    print("No valor de {} , em parcelas de {}x".format(empre,parc))
 else:
     print("Seu emprestimo não foi concedido")

@@ -11,4 +11,4 @@ elif sexo == "m".lower() and idade >= 18 and idade <= 39:
 
         
 else:
-    print("Você não foi convocado")
+    print("Você não foi convocada")
