@@ -8,4 +8,4 @@ if (salario * 0.08) >  (empre / parc):
 else:
     print("Seu emprestimo não foi concedido")
 
-    print("GAbriel Bartholdy")
+print("GAbriel Bartholdy")
